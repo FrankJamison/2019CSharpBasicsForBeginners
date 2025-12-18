@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "Exercise2-FindingMaxOfTwoNumbers/1.0.0": {
+        "runtime": {
+          "Exercise2-FindingMaxOfTwoNumbers.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exercise2-FindingMaxOfTwoNumbers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
