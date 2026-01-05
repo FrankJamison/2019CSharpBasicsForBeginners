@@ -1,0 +1,15 @@
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise13-UniqueNumbersInList\bin\Release\net8.0\Exercise13-UniqueNumbersInList.exe
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise13-UniqueNumbersInList\bin\Release\net8.0\Exercise13-UniqueNumbersInList.deps.json
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise13-UniqueNumbersInList\bin\Release\net8.0\Exercise13-UniqueNumbersInList.runtimeconfig.json
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise13-UniqueNumbersInList\bin\Release\net8.0\Exercise13-UniqueNumbersInList.dll
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise13-UniqueNumbersInList\bin\Release\net8.0\Exercise13-UniqueNumbersInList.pdb
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise13-UniqueNumbersInList\obj\Release\net8.0\Exercise13-UniqueNumbersInList.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise13-UniqueNumbersInList\obj\Release\net8.0\Exercise13-UniqueNumbersInList.AssemblyInfoInputs.cache
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise13-UniqueNumbersInList\obj\Release\net8.0\Exercise13-UniqueNumbersInList.AssemblyInfo.cs
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise13-UniqueNumbersInList\obj\Release\net8.0\Exercise13-UniqueNumbersInList.csproj.CoreCompileInputs.cache
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise13-UniqueNumbersInList\obj\Release\net8.0\Exercise13-UniqueNumbersInList.sourcelink.json
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise13-UniqueNumbersInList\obj\Release\net8.0\Exercise13-UniqueNumbersInList.dll
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise13-UniqueNumbersInList\obj\Release\net8.0\refint\Exercise13-UniqueNumbersInList.dll
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise13-UniqueNumbersInList\obj\Release\net8.0\Exercise13-UniqueNumbersInList.pdb
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise13-UniqueNumbersInList\obj\Release\net8.0\Exercise13-UniqueNumbersInList.genruntimeconfig.cache
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise13-UniqueNumbersInList\obj\Release\net8.0\ref\Exercise13-UniqueNumbersInList.dll

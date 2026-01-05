@@ -1,0 +1,15 @@
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise12-UniqueNumbers\bin\Release\net8.0\Exercise12-UniqueNumbers.exe
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise12-UniqueNumbers\bin\Release\net8.0\Exercise12-UniqueNumbers.deps.json
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise12-UniqueNumbers\bin\Release\net8.0\Exercise12-UniqueNumbers.runtimeconfig.json
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise12-UniqueNumbers\bin\Release\net8.0\Exercise12-UniqueNumbers.dll
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise12-UniqueNumbers\bin\Release\net8.0\Exercise12-UniqueNumbers.pdb
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise12-UniqueNumbers\obj\Release\net8.0\Exercise12-UniqueNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise12-UniqueNumbers\obj\Release\net8.0\Exercise12-UniqueNumbers.AssemblyInfoInputs.cache
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise12-UniqueNumbers\obj\Release\net8.0\Exercise12-UniqueNumbers.AssemblyInfo.cs
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise12-UniqueNumbers\obj\Release\net8.0\Exercise12-UniqueNumbers.csproj.CoreCompileInputs.cache
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise12-UniqueNumbers\obj\Release\net8.0\Exercise12-UniqueNumbers.sourcelink.json
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise12-UniqueNumbers\obj\Release\net8.0\Exercise12-UniqueNumbers.dll
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise12-UniqueNumbers\obj\Release\net8.0\refint\Exercise12-UniqueNumbers.dll
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise12-UniqueNumbers\obj\Release\net8.0\Exercise12-UniqueNumbers.pdb
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise12-UniqueNumbers\obj\Release\net8.0\Exercise12-UniqueNumbers.genruntimeconfig.cache
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise12-UniqueNumbers\obj\Release\net8.0\ref\Exercise12-UniqueNumbers.dll

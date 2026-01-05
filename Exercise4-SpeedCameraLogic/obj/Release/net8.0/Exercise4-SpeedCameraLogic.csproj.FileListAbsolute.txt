@@ -1,0 +1,15 @@
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise4-SpeedCameraLogic\bin\Release\net8.0\Exercise4-SpeedCameraLogic.exe
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise4-SpeedCameraLogic\bin\Release\net8.0\Exercise4-SpeedCameraLogic.deps.json
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise4-SpeedCameraLogic\bin\Release\net8.0\Exercise4-SpeedCameraLogic.runtimeconfig.json
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise4-SpeedCameraLogic\bin\Release\net8.0\Exercise4-SpeedCameraLogic.dll
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise4-SpeedCameraLogic\bin\Release\net8.0\Exercise4-SpeedCameraLogic.pdb
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise4-SpeedCameraLogic\obj\Release\net8.0\Exercise4-SpeedCameraLogic.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise4-SpeedCameraLogic\obj\Release\net8.0\Exercise4-SpeedCameraLogic.AssemblyInfoInputs.cache
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise4-SpeedCameraLogic\obj\Release\net8.0\Exercise4-SpeedCameraLogic.AssemblyInfo.cs
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise4-SpeedCameraLogic\obj\Release\net8.0\Exercise4-SpeedCameraLogic.csproj.CoreCompileInputs.cache
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise4-SpeedCameraLogic\obj\Release\net8.0\Exercise4-SpeedCameraLogic.sourcelink.json
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise4-SpeedCameraLogic\obj\Release\net8.0\Exercise4-SpeedCameraLogic.dll
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise4-SpeedCameraLogic\obj\Release\net8.0\refint\Exercise4-SpeedCameraLogic.dll
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise4-SpeedCameraLogic\obj\Release\net8.0\Exercise4-SpeedCameraLogic.pdb
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise4-SpeedCameraLogic\obj\Release\net8.0\Exercise4-SpeedCameraLogic.genruntimeconfig.cache
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise4-SpeedCameraLogic\obj\Release\net8.0\ref\Exercise4-SpeedCameraLogic.dll

@@ -1,0 +1,15 @@
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise19-CountVowels\obj\Release\net8.0\Exercise19-CountVowels.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise19-CountVowels\obj\Release\net8.0\Exercise19-CountVowels.AssemblyInfoInputs.cache
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise19-CountVowels\obj\Release\net8.0\Exercise19-CountVowels.AssemblyInfo.cs
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise19-CountVowels\obj\Release\net8.0\Exercise19-CountVowels.csproj.CoreCompileInputs.cache
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise19-CountVowels\obj\Release\net8.0\Exercise19-CountVowels.sourcelink.json
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise19-CountVowels\obj\Release\net8.0\Exercise19-CountVowels.dll
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise19-CountVowels\obj\Release\net8.0\Exercise19-CountVowels.pdb
+d:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise19-CountVowels\bin\Release\net8.0\Exercise19-CountVowels.exe
+d:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise19-CountVowels\bin\Release\net8.0\Exercise19-CountVowels.deps.json
+d:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise19-CountVowels\bin\Release\net8.0\Exercise19-CountVowels.runtimeconfig.json
+d:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise19-CountVowels\bin\Release\net8.0\Exercise19-CountVowels.dll
+d:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise19-CountVowels\bin\Release\net8.0\Exercise19-CountVowels.pdb
+d:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise19-CountVowels\obj\Release\net8.0\refint\Exercise19-CountVowels.dll
+d:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise19-CountVowels\obj\Release\net8.0\Exercise19-CountVowels.genruntimeconfig.cache
+d:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise19-CountVowels\obj\Release\net8.0\ref\Exercise19-CountVowels.dll

@@ -1,0 +1,15 @@
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise15-ConsecutiveNumberTest\bin\Release\net8.0\Exercise15-ConsecutiveNumberTest.exe
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise15-ConsecutiveNumberTest\bin\Release\net8.0\Exercise15-ConsecutiveNumberTest.deps.json
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise15-ConsecutiveNumberTest\bin\Release\net8.0\Exercise15-ConsecutiveNumberTest.runtimeconfig.json
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise15-ConsecutiveNumberTest\bin\Release\net8.0\Exercise15-ConsecutiveNumberTest.dll
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise15-ConsecutiveNumberTest\bin\Release\net8.0\Exercise15-ConsecutiveNumberTest.pdb
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise15-ConsecutiveNumberTest\obj\Release\net8.0\Exercise15-ConsecutiveNumberTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise15-ConsecutiveNumberTest\obj\Release\net8.0\Exercise15-ConsecutiveNumberTest.AssemblyInfoInputs.cache
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise15-ConsecutiveNumberTest\obj\Release\net8.0\Exercise15-ConsecutiveNumberTest.AssemblyInfo.cs
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise15-ConsecutiveNumberTest\obj\Release\net8.0\Exercise15-ConsecutiveNumberTest.csproj.CoreCompileInputs.cache
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise15-ConsecutiveNumberTest\obj\Release\net8.0\Exercise15-ConsecutiveNumberTest.sourcelink.json
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise15-ConsecutiveNumberTest\obj\Release\net8.0\Exercise15-ConsecutiveNumberTest.dll
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise15-ConsecutiveNumberTest\obj\Release\net8.0\refint\Exercise15-ConsecutiveNumberTest.dll
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise15-ConsecutiveNumberTest\obj\Release\net8.0\Exercise15-ConsecutiveNumberTest.pdb
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise15-ConsecutiveNumberTest\obj\Release\net8.0\Exercise15-ConsecutiveNumberTest.genruntimeconfig.cache
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise15-ConsecutiveNumberTest\obj\Release\net8.0\ref\Exercise15-ConsecutiveNumberTest.dll

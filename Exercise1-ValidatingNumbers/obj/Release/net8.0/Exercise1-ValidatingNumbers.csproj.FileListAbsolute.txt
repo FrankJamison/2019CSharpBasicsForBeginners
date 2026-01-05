@@ -1,0 +1,15 @@
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise1-ValidatingNumbers\bin\Release\net8.0\Exercise1-ValidatingNumbers.exe
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise1-ValidatingNumbers\bin\Release\net8.0\Exercise1-ValidatingNumbers.deps.json
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise1-ValidatingNumbers\bin\Release\net8.0\Exercise1-ValidatingNumbers.runtimeconfig.json
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise1-ValidatingNumbers\bin\Release\net8.0\Exercise1-ValidatingNumbers.dll
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise1-ValidatingNumbers\bin\Release\net8.0\Exercise1-ValidatingNumbers.pdb
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise1-ValidatingNumbers\obj\Release\net8.0\Exercise1-ValidatingNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise1-ValidatingNumbers\obj\Release\net8.0\Exercise1-ValidatingNumbers.AssemblyInfoInputs.cache
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise1-ValidatingNumbers\obj\Release\net8.0\Exercise1-ValidatingNumbers.AssemblyInfo.cs
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise1-ValidatingNumbers\obj\Release\net8.0\Exercise1-ValidatingNumbers.csproj.CoreCompileInputs.cache
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise1-ValidatingNumbers\obj\Release\net8.0\Exercise1-ValidatingNumbers.sourcelink.json
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise1-ValidatingNumbers\obj\Release\net8.0\Exercise1-ValidatingNumbers.dll
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise1-ValidatingNumbers\obj\Release\net8.0\refint\Exercise1-ValidatingNumbers.dll
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise1-ValidatingNumbers\obj\Release\net8.0\Exercise1-ValidatingNumbers.pdb
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise1-ValidatingNumbers\obj\Release\net8.0\Exercise1-ValidatingNumbers.genruntimeconfig.cache
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise1-ValidatingNumbers\obj\Release\net8.0\ref\Exercise1-ValidatingNumbers.dll

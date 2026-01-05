@@ -1,0 +1,15 @@
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise11-NameReversal\bin\Release\net8.0\Exercise11-NameReversal.exe
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise11-NameReversal\bin\Release\net8.0\Exercise11-NameReversal.deps.json
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise11-NameReversal\bin\Release\net8.0\Exercise11-NameReversal.runtimeconfig.json
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise11-NameReversal\bin\Release\net8.0\Exercise11-NameReversal.dll
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise11-NameReversal\bin\Release\net8.0\Exercise11-NameReversal.pdb
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise11-NameReversal\obj\Release\net8.0\Exercise11-NameReversal.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise11-NameReversal\obj\Release\net8.0\Exercise11-NameReversal.AssemblyInfoInputs.cache
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise11-NameReversal\obj\Release\net8.0\Exercise11-NameReversal.AssemblyInfo.cs
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise11-NameReversal\obj\Release\net8.0\Exercise11-NameReversal.csproj.CoreCompileInputs.cache
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise11-NameReversal\obj\Release\net8.0\Exercise11-NameReversal.sourcelink.json
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise11-NameReversal\obj\Release\net8.0\Exercise11-NameReversal.dll
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise11-NameReversal\obj\Release\net8.0\refint\Exercise11-NameReversal.dll
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise11-NameReversal\obj\Release\net8.0\Exercise11-NameReversal.pdb
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise11-NameReversal\obj\Release\net8.0\Exercise11-NameReversal.genruntimeconfig.cache
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise11-NameReversal\obj\Release\net8.0\ref\Exercise11-NameReversal.dll

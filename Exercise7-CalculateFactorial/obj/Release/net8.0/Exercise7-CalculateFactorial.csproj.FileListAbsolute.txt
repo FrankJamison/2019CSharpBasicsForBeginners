@@ -1,0 +1,15 @@
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise7-CalculateFactorial\bin\Release\net8.0\Exercise7-CalculateFactorial.exe
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise7-CalculateFactorial\bin\Release\net8.0\Exercise7-CalculateFactorial.deps.json
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise7-CalculateFactorial\bin\Release\net8.0\Exercise7-CalculateFactorial.runtimeconfig.json
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise7-CalculateFactorial\bin\Release\net8.0\Exercise7-CalculateFactorial.dll
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise7-CalculateFactorial\bin\Release\net8.0\Exercise7-CalculateFactorial.pdb
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise7-CalculateFactorial\obj\Release\net8.0\Exercise7-CalculateFactorial.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise7-CalculateFactorial\obj\Release\net8.0\Exercise7-CalculateFactorial.AssemblyInfoInputs.cache
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise7-CalculateFactorial\obj\Release\net8.0\Exercise7-CalculateFactorial.AssemblyInfo.cs
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise7-CalculateFactorial\obj\Release\net8.0\Exercise7-CalculateFactorial.csproj.CoreCompileInputs.cache
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise7-CalculateFactorial\obj\Release\net8.0\Exercise7-CalculateFactorial.sourcelink.json
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise7-CalculateFactorial\obj\Release\net8.0\Exercise7-CalculateFactorial.dll
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise7-CalculateFactorial\obj\Release\net8.0\refint\Exercise7-CalculateFactorial.dll
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise7-CalculateFactorial\obj\Release\net8.0\Exercise7-CalculateFactorial.pdb
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise7-CalculateFactorial\obj\Release\net8.0\Exercise7-CalculateFactorial.genruntimeconfig.cache
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise7-CalculateFactorial\obj\Release\net8.0\ref\Exercise7-CalculateFactorial.dll

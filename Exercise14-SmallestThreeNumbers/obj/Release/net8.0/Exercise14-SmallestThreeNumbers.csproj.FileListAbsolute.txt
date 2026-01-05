@@ -1,0 +1,15 @@
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise14-SmallestThreeNumbers\bin\Release\net8.0\Exercise14-SmallestThreeNumbers.exe
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise14-SmallestThreeNumbers\bin\Release\net8.0\Exercise14-SmallestThreeNumbers.deps.json
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise14-SmallestThreeNumbers\bin\Release\net8.0\Exercise14-SmallestThreeNumbers.runtimeconfig.json
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise14-SmallestThreeNumbers\bin\Release\net8.0\Exercise14-SmallestThreeNumbers.dll
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise14-SmallestThreeNumbers\bin\Release\net8.0\Exercise14-SmallestThreeNumbers.pdb
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise14-SmallestThreeNumbers\obj\Release\net8.0\Exercise14-SmallestThreeNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise14-SmallestThreeNumbers\obj\Release\net8.0\Exercise14-SmallestThreeNumbers.AssemblyInfoInputs.cache
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise14-SmallestThreeNumbers\obj\Release\net8.0\Exercise14-SmallestThreeNumbers.AssemblyInfo.cs
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise14-SmallestThreeNumbers\obj\Release\net8.0\Exercise14-SmallestThreeNumbers.csproj.CoreCompileInputs.cache
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise14-SmallestThreeNumbers\obj\Release\net8.0\Exercise14-SmallestThreeNumbers.sourcelink.json
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise14-SmallestThreeNumbers\obj\Release\net8.0\Exercise14-SmallestThreeNumbers.dll
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise14-SmallestThreeNumbers\obj\Release\net8.0\refint\Exercise14-SmallestThreeNumbers.dll
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise14-SmallestThreeNumbers\obj\Release\net8.0\Exercise14-SmallestThreeNumbers.pdb
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise14-SmallestThreeNumbers\obj\Release\net8.0\Exercise14-SmallestThreeNumbers.genruntimeconfig.cache
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise14-SmallestThreeNumbers\obj\Release\net8.0\ref\Exercise14-SmallestThreeNumbers.dll

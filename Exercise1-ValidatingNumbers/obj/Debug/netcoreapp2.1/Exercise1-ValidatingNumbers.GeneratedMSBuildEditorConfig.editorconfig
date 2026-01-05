@@ -1,6 +1,6 @@
 is_global = true
 build_property.RootNamespace = Exercise1_ValidatingNumbers
-build_property.ProjectDir = d:\Programming\C#\2019-Udemy-CSharpBasicsForBeginners\Exercise1-ValidatingNumbers\
+build_property.ProjectDir = d:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise1-ValidatingNumbers\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.CsWinRTUseWindowsUIXamlProjections = false

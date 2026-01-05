@@ -1,0 +1,15 @@
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise16-DuplicateNumbers Test\bin\Release\net8.0\Exercise16-DuplicateNumbers Test.exe
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise16-DuplicateNumbers Test\bin\Release\net8.0\Exercise16-DuplicateNumbers Test.deps.json
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise16-DuplicateNumbers Test\bin\Release\net8.0\Exercise16-DuplicateNumbers Test.runtimeconfig.json
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise16-DuplicateNumbers Test\bin\Release\net8.0\Exercise16-DuplicateNumbers Test.dll
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise16-DuplicateNumbers Test\bin\Release\net8.0\Exercise16-DuplicateNumbers Test.pdb
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise16-DuplicateNumbers Test\obj\Release\net8.0\Exercise16-DuplicateNumbers Test.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise16-DuplicateNumbers Test\obj\Release\net8.0\Exercise16-DuplicateNumbers Test.AssemblyInfoInputs.cache
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise16-DuplicateNumbers Test\obj\Release\net8.0\Exercise16-DuplicateNumbers Test.AssemblyInfo.cs
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise16-DuplicateNumbers Test\obj\Release\net8.0\Exercise16-DuplicateNumbers Test.csproj.CoreCompileInputs.cache
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise16-DuplicateNumbers Test\obj\Release\net8.0\Exercise16-DuplicateNumbers Test.sourcelink.json
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise16-DuplicateNumbers Test\obj\Release\net8.0\Exercise16-DuplicateNumbers Test.dll
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise16-DuplicateNumbers Test\obj\Release\net8.0\refint\Exercise16-DuplicateNumbers Test.dll
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise16-DuplicateNumbers Test\obj\Release\net8.0\Exercise16-DuplicateNumbers Test.pdb
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise16-DuplicateNumbers Test\obj\Release\net8.0\Exercise16-DuplicateNumbers Test.genruntimeconfig.cache
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise16-DuplicateNumbers Test\obj\Release\net8.0\ref\Exercise16-DuplicateNumbers Test.dll

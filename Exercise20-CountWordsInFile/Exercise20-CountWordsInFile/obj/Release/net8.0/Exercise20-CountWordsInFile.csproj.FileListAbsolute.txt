@@ -1,0 +1,15 @@
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise20-CountWordsInFile\Exercise20-CountWordsInFile\bin\Release\net8.0\Exercise20-CountWordsInFile.exe
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise20-CountWordsInFile\Exercise20-CountWordsInFile\bin\Release\net8.0\Exercise20-CountWordsInFile.deps.json
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise20-CountWordsInFile\Exercise20-CountWordsInFile\bin\Release\net8.0\Exercise20-CountWordsInFile.runtimeconfig.json
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise20-CountWordsInFile\Exercise20-CountWordsInFile\bin\Release\net8.0\Exercise20-CountWordsInFile.dll
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise20-CountWordsInFile\Exercise20-CountWordsInFile\bin\Release\net8.0\Exercise20-CountWordsInFile.pdb
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise20-CountWordsInFile\Exercise20-CountWordsInFile\obj\Release\net8.0\Exercise20-CountWordsInFile.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise20-CountWordsInFile\Exercise20-CountWordsInFile\obj\Release\net8.0\Exercise20-CountWordsInFile.AssemblyInfoInputs.cache
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise20-CountWordsInFile\Exercise20-CountWordsInFile\obj\Release\net8.0\Exercise20-CountWordsInFile.AssemblyInfo.cs
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise20-CountWordsInFile\Exercise20-CountWordsInFile\obj\Release\net8.0\Exercise20-CountWordsInFile.csproj.CoreCompileInputs.cache
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise20-CountWordsInFile\Exercise20-CountWordsInFile\obj\Release\net8.0\Exercise20-CountWordsInFile.sourcelink.json
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise20-CountWordsInFile\Exercise20-CountWordsInFile\obj\Release\net8.0\Exercise20-CountWordsInFile.dll
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise20-CountWordsInFile\Exercise20-CountWordsInFile\obj\Release\net8.0\refint\Exercise20-CountWordsInFile.dll
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise20-CountWordsInFile\Exercise20-CountWordsInFile\obj\Release\net8.0\Exercise20-CountWordsInFile.pdb
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise20-CountWordsInFile\Exercise20-CountWordsInFile\obj\Release\net8.0\Exercise20-CountWordsInFile.genruntimeconfig.cache
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise20-CountWordsInFile\Exercise20-CountWordsInFile\obj\Release\net8.0\ref\Exercise20-CountWordsInFile.dll

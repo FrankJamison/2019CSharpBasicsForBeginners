@@ -22,3 +22,17 @@ d:\Programming\C#\2019-Udemy-CSharpBasicsForBeginners\Exercise1-ValidatingNumber
 d:\Programming\C#\2019-Udemy-CSharpBasicsForBeginners\Exercise1-ValidatingNumbers\obj\Debug\netcoreapp2.1\Exercise1-ValidatingNumbers.dll
 d:\Programming\C#\2019-Udemy-CSharpBasicsForBeginners\Exercise1-ValidatingNumbers\obj\Debug\netcoreapp2.1\Exercise1-ValidatingNumbers.pdb
 d:\Programming\C#\2019-Udemy-CSharpBasicsForBeginners\Exercise1-ValidatingNumbers\obj\Debug\netcoreapp2.1\Exercise1-ValidatingNumbers.genruntimeconfig.cache
+d:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise1-ValidatingNumbers\bin\Debug\netcoreapp2.1\Exercise1-ValidatingNumbers.deps.json
+d:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise1-ValidatingNumbers\bin\Debug\netcoreapp2.1\Exercise1-ValidatingNumbers.runtimeconfig.json
+d:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise1-ValidatingNumbers\bin\Debug\netcoreapp2.1\Exercise1-ValidatingNumbers.runtimeconfig.dev.json
+d:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise1-ValidatingNumbers\bin\Debug\netcoreapp2.1\Exercise1-ValidatingNumbers.dll
+d:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise1-ValidatingNumbers\bin\Debug\netcoreapp2.1\Exercise1-ValidatingNumbers.pdb
+d:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise1-ValidatingNumbers\obj\Debug\netcoreapp2.1\Exercise1-ValidatingNumbers.csproj.AssemblyReference.cache
+d:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise1-ValidatingNumbers\obj\Debug\netcoreapp2.1\Exercise1-ValidatingNumbers.GeneratedMSBuildEditorConfig.editorconfig
+d:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise1-ValidatingNumbers\obj\Debug\netcoreapp2.1\Exercise1-ValidatingNumbers.AssemblyInfoInputs.cache
+d:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise1-ValidatingNumbers\obj\Debug\netcoreapp2.1\Exercise1-ValidatingNumbers.AssemblyInfo.cs
+d:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise1-ValidatingNumbers\obj\Debug\netcoreapp2.1\Exercise1-ValidatingNumbers.csproj.CoreCompileInputs.cache
+d:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise1-ValidatingNumbers\obj\Debug\netcoreapp2.1\Exercise1-ValidatingNumbers.sourcelink.json
+d:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise1-ValidatingNumbers\obj\Debug\netcoreapp2.1\Exercise1-ValidatingNumbers.dll
+d:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise1-ValidatingNumbers\obj\Debug\netcoreapp2.1\Exercise1-ValidatingNumbers.pdb
+d:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise1-ValidatingNumbers\obj\Debug\netcoreapp2.1\Exercise1-ValidatingNumbers.genruntimeconfig.cache

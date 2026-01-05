@@ -1,0 +1,15 @@
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise9-FindMaxValueInListOfNumbers\bin\Release\net8.0\Exercise9-FindMaxValueInListOfNumbers.exe
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise9-FindMaxValueInListOfNumbers\bin\Release\net8.0\Exercise9-FindMaxValueInListOfNumbers.deps.json
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise9-FindMaxValueInListOfNumbers\bin\Release\net8.0\Exercise9-FindMaxValueInListOfNumbers.runtimeconfig.json
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise9-FindMaxValueInListOfNumbers\bin\Release\net8.0\Exercise9-FindMaxValueInListOfNumbers.dll
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise9-FindMaxValueInListOfNumbers\bin\Release\net8.0\Exercise9-FindMaxValueInListOfNumbers.pdb
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise9-FindMaxValueInListOfNumbers\obj\Release\net8.0\Exercise9-FindMaxValueInListOfNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise9-FindMaxValueInListOfNumbers\obj\Release\net8.0\Exercise9-FindMaxValueInListOfNumbers.AssemblyInfoInputs.cache
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise9-FindMaxValueInListOfNumbers\obj\Release\net8.0\Exercise9-FindMaxValueInListOfNumbers.AssemblyInfo.cs
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise9-FindMaxValueInListOfNumbers\obj\Release\net8.0\Exercise9-FindMaxValueInListOfNumbers.csproj.CoreCompileInputs.cache
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise9-FindMaxValueInListOfNumbers\obj\Release\net8.0\Exercise9-FindMaxValueInListOfNumbers.sourcelink.json
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise9-FindMaxValueInListOfNumbers\obj\Release\net8.0\Exercise9-FindMaxValueInListOfNumbers.dll
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise9-FindMaxValueInListOfNumbers\obj\Release\net8.0\refint\Exercise9-FindMaxValueInListOfNumbers.dll
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise9-FindMaxValueInListOfNumbers\obj\Release\net8.0\Exercise9-FindMaxValueInListOfNumbers.pdb
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise9-FindMaxValueInListOfNumbers\obj\Release\net8.0\Exercise9-FindMaxValueInListOfNumbers.genruntimeconfig.cache
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise9-FindMaxValueInListOfNumbers\obj\Release\net8.0\ref\Exercise9-FindMaxValueInListOfNumbers.dll

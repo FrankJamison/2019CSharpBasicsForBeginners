@@ -1,0 +1,15 @@
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise5-CountNumbersDivisibleBy3\bin\Release\net8.0\Exercise5-CountNumbersDivisibleBy3.exe
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise5-CountNumbersDivisibleBy3\bin\Release\net8.0\Exercise5-CountNumbersDivisibleBy3.deps.json
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise5-CountNumbersDivisibleBy3\bin\Release\net8.0\Exercise5-CountNumbersDivisibleBy3.runtimeconfig.json
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise5-CountNumbersDivisibleBy3\bin\Release\net8.0\Exercise5-CountNumbersDivisibleBy3.dll
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise5-CountNumbersDivisibleBy3\bin\Release\net8.0\Exercise5-CountNumbersDivisibleBy3.pdb
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise5-CountNumbersDivisibleBy3\obj\Release\net8.0\Exercise5-CountNumbersDivisibleBy3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise5-CountNumbersDivisibleBy3\obj\Release\net8.0\Exercise5-CountNumbersDivisibleBy3.AssemblyInfoInputs.cache
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise5-CountNumbersDivisibleBy3\obj\Release\net8.0\Exercise5-CountNumbersDivisibleBy3.AssemblyInfo.cs
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise5-CountNumbersDivisibleBy3\obj\Release\net8.0\Exercise5-CountNumbersDivisibleBy3.csproj.CoreCompileInputs.cache
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise5-CountNumbersDivisibleBy3\obj\Release\net8.0\Exercise5-CountNumbersDivisibleBy3.sourcelink.json
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise5-CountNumbersDivisibleBy3\obj\Release\net8.0\Exercise5-CountNumbersDivisibleBy3.dll
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise5-CountNumbersDivisibleBy3\obj\Release\net8.0\refint\Exercise5-CountNumbersDivisibleBy3.dll
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise5-CountNumbersDivisibleBy3\obj\Release\net8.0\Exercise5-CountNumbersDivisibleBy3.pdb
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise5-CountNumbersDivisibleBy3\obj\Release\net8.0\Exercise5-CountNumbersDivisibleBy3.genruntimeconfig.cache
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise5-CountNumbersDivisibleBy3\obj\Release\net8.0\ref\Exercise5-CountNumbersDivisibleBy3.dll

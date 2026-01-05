@@ -1,0 +1,15 @@
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise10-FacebookLikes\bin\Release\net8.0\Exercise10-FacebookLikes.exe
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise10-FacebookLikes\bin\Release\net8.0\Exercise10-FacebookLikes.deps.json
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise10-FacebookLikes\bin\Release\net8.0\Exercise10-FacebookLikes.runtimeconfig.json
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise10-FacebookLikes\bin\Release\net8.0\Exercise10-FacebookLikes.dll
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise10-FacebookLikes\bin\Release\net8.0\Exercise10-FacebookLikes.pdb
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise10-FacebookLikes\obj\Release\net8.0\Exercise10-FacebookLikes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise10-FacebookLikes\obj\Release\net8.0\Exercise10-FacebookLikes.AssemblyInfoInputs.cache
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise10-FacebookLikes\obj\Release\net8.0\Exercise10-FacebookLikes.AssemblyInfo.cs
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise10-FacebookLikes\obj\Release\net8.0\Exercise10-FacebookLikes.csproj.CoreCompileInputs.cache
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise10-FacebookLikes\obj\Release\net8.0\Exercise10-FacebookLikes.sourcelink.json
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise10-FacebookLikes\obj\Release\net8.0\Exercise10-FacebookLikes.dll
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise10-FacebookLikes\obj\Release\net8.0\refint\Exercise10-FacebookLikes.dll
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise10-FacebookLikes\obj\Release\net8.0\Exercise10-FacebookLikes.pdb
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise10-FacebookLikes\obj\Release\net8.0\Exercise10-FacebookLikes.genruntimeconfig.cache
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise10-FacebookLikes\obj\Release\net8.0\ref\Exercise10-FacebookLikes.dll

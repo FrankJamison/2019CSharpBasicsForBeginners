@@ -1,0 +1,15 @@
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise3-FindingImageOrientation\bin\Release\net8.0\Exercise3-FindingImageOrientation.exe
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise3-FindingImageOrientation\bin\Release\net8.0\Exercise3-FindingImageOrientation.deps.json
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise3-FindingImageOrientation\bin\Release\net8.0\Exercise3-FindingImageOrientation.runtimeconfig.json
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise3-FindingImageOrientation\bin\Release\net8.0\Exercise3-FindingImageOrientation.dll
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise3-FindingImageOrientation\bin\Release\net8.0\Exercise3-FindingImageOrientation.pdb
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise3-FindingImageOrientation\obj\Release\net8.0\Exercise3-FindingImageOrientation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise3-FindingImageOrientation\obj\Release\net8.0\Exercise3-FindingImageOrientation.AssemblyInfoInputs.cache
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise3-FindingImageOrientation\obj\Release\net8.0\Exercise3-FindingImageOrientation.AssemblyInfo.cs
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise3-FindingImageOrientation\obj\Release\net8.0\Exercise3-FindingImageOrientation.csproj.CoreCompileInputs.cache
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise3-FindingImageOrientation\obj\Release\net8.0\Exercise3-FindingImageOrientation.sourcelink.json
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise3-FindingImageOrientation\obj\Release\net8.0\Exercise3-FindingImageOrientation.dll
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise3-FindingImageOrientation\obj\Release\net8.0\refint\Exercise3-FindingImageOrientation.dll
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise3-FindingImageOrientation\obj\Release\net8.0\Exercise3-FindingImageOrientation.pdb
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise3-FindingImageOrientation\obj\Release\net8.0\Exercise3-FindingImageOrientation.genruntimeconfig.cache
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise3-FindingImageOrientation\obj\Release\net8.0\ref\Exercise3-FindingImageOrientation.dll

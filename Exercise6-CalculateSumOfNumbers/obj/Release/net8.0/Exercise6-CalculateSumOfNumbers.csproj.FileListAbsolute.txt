@@ -1,0 +1,15 @@
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise6-CalculateSumOfNumbers\bin\Release\net8.0\Exercise6-CalculateSumOfNumbers.exe
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise6-CalculateSumOfNumbers\bin\Release\net8.0\Exercise6-CalculateSumOfNumbers.deps.json
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise6-CalculateSumOfNumbers\bin\Release\net8.0\Exercise6-CalculateSumOfNumbers.runtimeconfig.json
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise6-CalculateSumOfNumbers\bin\Release\net8.0\Exercise6-CalculateSumOfNumbers.dll
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise6-CalculateSumOfNumbers\bin\Release\net8.0\Exercise6-CalculateSumOfNumbers.pdb
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise6-CalculateSumOfNumbers\obj\Release\net8.0\Exercise6-CalculateSumOfNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise6-CalculateSumOfNumbers\obj\Release\net8.0\Exercise6-CalculateSumOfNumbers.AssemblyInfoInputs.cache
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise6-CalculateSumOfNumbers\obj\Release\net8.0\Exercise6-CalculateSumOfNumbers.AssemblyInfo.cs
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise6-CalculateSumOfNumbers\obj\Release\net8.0\Exercise6-CalculateSumOfNumbers.csproj.CoreCompileInputs.cache
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise6-CalculateSumOfNumbers\obj\Release\net8.0\Exercise6-CalculateSumOfNumbers.sourcelink.json
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise6-CalculateSumOfNumbers\obj\Release\net8.0\Exercise6-CalculateSumOfNumbers.dll
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise6-CalculateSumOfNumbers\obj\Release\net8.0\refint\Exercise6-CalculateSumOfNumbers.dll
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise6-CalculateSumOfNumbers\obj\Release\net8.0\Exercise6-CalculateSumOfNumbers.pdb
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise6-CalculateSumOfNumbers\obj\Release\net8.0\Exercise6-CalculateSumOfNumbers.genruntimeconfig.cache
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise6-CalculateSumOfNumbers\obj\Release\net8.0\ref\Exercise6-CalculateSumOfNumbers.dll

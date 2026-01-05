@@ -1,0 +1,15 @@
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise2-FindingMaxOfTwoNumbers\bin\Release\net8.0\Exercise2-FindingMaxOfTwoNumbers.exe
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise2-FindingMaxOfTwoNumbers\bin\Release\net8.0\Exercise2-FindingMaxOfTwoNumbers.deps.json
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise2-FindingMaxOfTwoNumbers\bin\Release\net8.0\Exercise2-FindingMaxOfTwoNumbers.runtimeconfig.json
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise2-FindingMaxOfTwoNumbers\bin\Release\net8.0\Exercise2-FindingMaxOfTwoNumbers.dll
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise2-FindingMaxOfTwoNumbers\bin\Release\net8.0\Exercise2-FindingMaxOfTwoNumbers.pdb
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise2-FindingMaxOfTwoNumbers\obj\Release\net8.0\Exercise2-FindingMaxOfTwoNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise2-FindingMaxOfTwoNumbers\obj\Release\net8.0\Exercise2-FindingMaxOfTwoNumbers.AssemblyInfoInputs.cache
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise2-FindingMaxOfTwoNumbers\obj\Release\net8.0\Exercise2-FindingMaxOfTwoNumbers.AssemblyInfo.cs
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise2-FindingMaxOfTwoNumbers\obj\Release\net8.0\Exercise2-FindingMaxOfTwoNumbers.csproj.CoreCompileInputs.cache
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise2-FindingMaxOfTwoNumbers\obj\Release\net8.0\Exercise2-FindingMaxOfTwoNumbers.sourcelink.json
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise2-FindingMaxOfTwoNumbers\obj\Release\net8.0\Exercise2-FindingMaxOfTwoNumbers.dll
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise2-FindingMaxOfTwoNumbers\obj\Release\net8.0\refint\Exercise2-FindingMaxOfTwoNumbers.dll
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise2-FindingMaxOfTwoNumbers\obj\Release\net8.0\Exercise2-FindingMaxOfTwoNumbers.pdb
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise2-FindingMaxOfTwoNumbers\obj\Release\net8.0\Exercise2-FindingMaxOfTwoNumbers.genruntimeconfig.cache
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise2-FindingMaxOfTwoNumbers\obj\Release\net8.0\ref\Exercise2-FindingMaxOfTwoNumbers.dll

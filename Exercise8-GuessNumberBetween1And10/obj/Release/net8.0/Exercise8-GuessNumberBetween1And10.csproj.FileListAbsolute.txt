@@ -1,0 +1,15 @@
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise8-GuessNumberBetween1And10\bin\Release\net8.0\Exercise8-GuessNumberBetween1And10.exe
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise8-GuessNumberBetween1And10\bin\Release\net8.0\Exercise8-GuessNumberBetween1And10.deps.json
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise8-GuessNumberBetween1And10\bin\Release\net8.0\Exercise8-GuessNumberBetween1And10.runtimeconfig.json
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise8-GuessNumberBetween1And10\bin\Release\net8.0\Exercise8-GuessNumberBetween1And10.dll
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise8-GuessNumberBetween1And10\bin\Release\net8.0\Exercise8-GuessNumberBetween1And10.pdb
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise8-GuessNumberBetween1And10\obj\Release\net8.0\Exercise8-GuessNumberBetween1And10.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise8-GuessNumberBetween1And10\obj\Release\net8.0\Exercise8-GuessNumberBetween1And10.AssemblyInfoInputs.cache
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise8-GuessNumberBetween1And10\obj\Release\net8.0\Exercise8-GuessNumberBetween1And10.AssemblyInfo.cs
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise8-GuessNumberBetween1And10\obj\Release\net8.0\Exercise8-GuessNumberBetween1And10.csproj.CoreCompileInputs.cache
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise8-GuessNumberBetween1And10\obj\Release\net8.0\Exercise8-GuessNumberBetween1And10.sourcelink.json
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise8-GuessNumberBetween1And10\obj\Release\net8.0\Exercise8-GuessNumberBetween1And10.dll
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise8-GuessNumberBetween1And10\obj\Release\net8.0\refint\Exercise8-GuessNumberBetween1And10.dll
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise8-GuessNumberBetween1And10\obj\Release\net8.0\Exercise8-GuessNumberBetween1And10.pdb
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise8-GuessNumberBetween1And10\obj\Release\net8.0\Exercise8-GuessNumberBetween1And10.genruntimeconfig.cache
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise8-GuessNumberBetween1And10\obj\Release\net8.0\ref\Exercise8-GuessNumberBetween1And10.dll

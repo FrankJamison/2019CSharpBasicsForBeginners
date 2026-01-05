@@ -1,0 +1,15 @@
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise21-FindLongestWordInFile\Exercise21-FindLongestWordInFile\bin\Release\net8.0\Exercise21-FindLongestWordInFile.exe
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise21-FindLongestWordInFile\Exercise21-FindLongestWordInFile\bin\Release\net8.0\Exercise21-FindLongestWordInFile.deps.json
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise21-FindLongestWordInFile\Exercise21-FindLongestWordInFile\bin\Release\net8.0\Exercise21-FindLongestWordInFile.runtimeconfig.json
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise21-FindLongestWordInFile\Exercise21-FindLongestWordInFile\bin\Release\net8.0\Exercise21-FindLongestWordInFile.dll
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise21-FindLongestWordInFile\Exercise21-FindLongestWordInFile\bin\Release\net8.0\Exercise21-FindLongestWordInFile.pdb
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise21-FindLongestWordInFile\Exercise21-FindLongestWordInFile\obj\Release\net8.0\Exercise21-FindLongestWordInFile.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise21-FindLongestWordInFile\Exercise21-FindLongestWordInFile\obj\Release\net8.0\Exercise21-FindLongestWordInFile.AssemblyInfoInputs.cache
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise21-FindLongestWordInFile\Exercise21-FindLongestWordInFile\obj\Release\net8.0\Exercise21-FindLongestWordInFile.AssemblyInfo.cs
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise21-FindLongestWordInFile\Exercise21-FindLongestWordInFile\obj\Release\net8.0\Exercise21-FindLongestWordInFile.csproj.CoreCompileInputs.cache
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise21-FindLongestWordInFile\Exercise21-FindLongestWordInFile\obj\Release\net8.0\Exercise21-FindLongestWordInFile.sourcelink.json
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise21-FindLongestWordInFile\Exercise21-FindLongestWordInFile\obj\Release\net8.0\Exercise21-FindLongestWordInFile.dll
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise21-FindLongestWordInFile\Exercise21-FindLongestWordInFile\obj\Release\net8.0\refint\Exercise21-FindLongestWordInFile.dll
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise21-FindLongestWordInFile\Exercise21-FindLongestWordInFile\obj\Release\net8.0\Exercise21-FindLongestWordInFile.pdb
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise21-FindLongestWordInFile\Exercise21-FindLongestWordInFile\obj\Release\net8.0\Exercise21-FindLongestWordInFile.genruntimeconfig.cache
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise21-FindLongestWordInFile\Exercise21-FindLongestWordInFile\obj\Release\net8.0\ref\Exercise21-FindLongestWordInFile.dll

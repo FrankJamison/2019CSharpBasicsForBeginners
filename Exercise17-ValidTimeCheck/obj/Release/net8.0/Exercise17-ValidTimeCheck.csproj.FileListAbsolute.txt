@@ -1,0 +1,15 @@
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise17-ValidTimeCheck\bin\Release\net8.0\Exercise17-ValidTimeCheck.exe
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise17-ValidTimeCheck\bin\Release\net8.0\Exercise17-ValidTimeCheck.deps.json
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise17-ValidTimeCheck\bin\Release\net8.0\Exercise17-ValidTimeCheck.runtimeconfig.json
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise17-ValidTimeCheck\bin\Release\net8.0\Exercise17-ValidTimeCheck.dll
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise17-ValidTimeCheck\bin\Release\net8.0\Exercise17-ValidTimeCheck.pdb
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise17-ValidTimeCheck\obj\Release\net8.0\Exercise17-ValidTimeCheck.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise17-ValidTimeCheck\obj\Release\net8.0\Exercise17-ValidTimeCheck.AssemblyInfoInputs.cache
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise17-ValidTimeCheck\obj\Release\net8.0\Exercise17-ValidTimeCheck.AssemblyInfo.cs
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise17-ValidTimeCheck\obj\Release\net8.0\Exercise17-ValidTimeCheck.csproj.CoreCompileInputs.cache
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise17-ValidTimeCheck\obj\Release\net8.0\Exercise17-ValidTimeCheck.sourcelink.json
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise17-ValidTimeCheck\obj\Release\net8.0\Exercise17-ValidTimeCheck.dll
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise17-ValidTimeCheck\obj\Release\net8.0\refint\Exercise17-ValidTimeCheck.dll
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise17-ValidTimeCheck\obj\Release\net8.0\Exercise17-ValidTimeCheck.pdb
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise17-ValidTimeCheck\obj\Release\net8.0\Exercise17-ValidTimeCheck.genruntimeconfig.cache
+D:\Programming\C#\2019UdemyCSharpBasicsForBeginners\Exercise17-ValidTimeCheck\obj\Release\net8.0\ref\Exercise17-ValidTimeCheck.dll
